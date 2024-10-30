@@ -1,0 +1,29 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.board-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  flex-direction: column;
+}
+
+.board-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 3px solid #d8dbdf;
+  width: 40px;
+  height: 40px;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

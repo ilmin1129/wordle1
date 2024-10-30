@@ -1,0 +1,48 @@
+.keyboard-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  gap: 5px;
+}
+
+.keyboard-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 50px;
+  border: 1px solid #d3d6da;
+  background-color: #d3d6da;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.keyboard-block1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 50px;
+  border: 1px solid #d3d6da;
+  background-color: #d3d6da;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: small;
+}
+
+.keyboard-block2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60px;
+  height: 50px;
+  border: 1px solid #d3d6da;
+  background-color: #d3d6da;
+  border-radius: 5px;
+}
+
+.keyboard-block2 img {
+  width: 20px;
+  height: 20px;
+}
